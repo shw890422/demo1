@@ -1,4 +1,4 @@
---- 
+---
 zh: 
   EditAppointmentGroupDetails: 
     affect_reservations: 这将如何影响预订?
@@ -99,7 +99,7 @@ zh:
       canvas_login_tip: |-
           如果您配置的设置导致您无法登录，可以在登录 URL 末尾添加
           *%{url1}*。这会让您
-          使用一般的 果实网 登录步骤进行登录。对于此帐户，URL 为 %{url2}
+          使用一般的 Canvas 登录步骤进行登录。对于此帐户，URL 为 %{url2}
       choose_auth_type_option: 选择一个身份认证服务
       current_settings_title: 当前集成
       delete_auth_confirmation: 是否确定?如果删除，用户可能无法登录。
@@ -4424,10 +4424,10 @@ zh:
       path_syntax: 小写字母、数字和短划线
       portal_path_syntax: 小写字母、数字、短划线和斜线（例如，哈佛/化学）
       private: 隐藏
-      public: "在 canvas.net 上列出"
+      public: "在 果实网.net 上列出"
       save_changes: 保存更改
       self_paced: 自定进度
-      unlisted: "在 canvas.net 上未列出（可通过 url 访问）"
+      unlisted: "在 果实网.net 上未列出（可通过 url 访问）"
       when_to_set_tentative_start: "例如“2013 年秋季”，如果课程没有确切的开始日期"
     enrollment_reminders: 
       buttons: 
@@ -5116,7 +5116,7 @@ zh:
       provost: 教务长
       ready: 准备好了！
       school_admin: 学校管理者
-      sign_up_to_canvas: "注册试用 Canvas"
+      sign_up_to_canvas: "注册试用 果实网"
       specify_lms: "请指定您当前的 LMS 或选择“无”"
       specify_size: 请指定您组织的规模
       student: 学生
@@ -6025,7 +6025,7 @@ zh:
     draft_state: 草稿状态
     draft_state_account_disable_warning: |-
         关闭此功能将影响现有的课程。有关禁用此功能的帮助，请联系
-        您的 果实网 Success 经理。
+        您的 Canvas Success 经理。
     draft_state_course_disable_warning: |-
         关闭此功能将发布课程中所有现有对象。请在继续之前确保
         所有草稿内容可以发布，并且对课程中的所有用户可用。
@@ -8782,7 +8782,7 @@ zh:
         login_managed_by_account: "此登录信息的证书通过 %{account_name} 进行管理"
         password_from_account: "此登录信息的密码应由 %{account_name} 的系统管理员提供，并且 Instructure 没有权限访问您的密码。如果您的密码无效，请联系系统管理员有关更改或确认密码。"
         requested_password_reset: "您已请求确认登录到 果实网 的密码。"
-        subject: "忘记密码:password"
+        subject: "忘记密码:果实网"
     grade_weight_changed: 
       email: 
         grade_changed: "课程 %{course_name} 的评分政策已更改。"
@@ -9341,7 +9341,7 @@ zh:
             
             学无止境！
             
-            Canvas Network
+            果实网 Network
         html: 
           farewell: 学无止境！
           greetings: "您好，%{user}！"
@@ -9817,7 +9817,7 @@ zh:
         ⏎
         &nbsp;⏎
         ⏎
-        如果您不希望新评论在 果实网 收件箱中显示为“新”，请选中“将新提交评论标记为已读”
+        如果您不希望新评论在 Canvas 收件箱中显示为“新”，请选中“将新提交评论标记为已读”
     submission_comment_display: 提交评论
     submission_new_as_read: 将新提交评论标记为已读。
   notification_preferences: 
@@ -9942,7 +9942,7 @@ zh:
       instructions: 
         main: 
           manage: 
-            description: "*成果是在此处创建的，以跟踪课程的掌握程度。要开始创建，请查看顶部的菜单栏。单击”新建“按钮，创建一个新的成果，或单击”新建组“按钮创建一个新的组，将您的成果放在其中。”查找“按钮将允许您使用您所在的州或学校创建的成果。在您创建和使用成果时，您将可以使用左侧的面板在成果中导航。您可以在不同的级别之间拖放成果以创建结构。* *更重要的是，果实网 允许您将成果添加到您的评分标准，这样您就可以在对作业评分时评估自己的掌握程度。在您设置成果后，单击”管理评分标准“开始使用成果继续评分。*"
+            description: "*成果是在此处创建的，以跟踪课程的掌握程度。要开始创建，请查看顶部的菜单栏。单击”新建“按钮，创建一个新的成果，或单击”新建组“按钮创建一个新的组，将您的成果放在其中。”查找“按钮将允许您使用您所在的州或学校创建的成果。在您创建和使用成果时，您将可以使用左侧的面板在成果中导航。您可以在不同的级别之间拖放成果以创建结构。* *更重要的是，Canvas 允许您将成果添加到您的评分标准，这样您就可以在对作业评分时评估自己的掌握程度。在您设置成果后，单击”管理评分标准“开始使用成果继续评分。*"
             title: 设置成果
     mastery_error: "必须大于或等于 0"
     missing_outcome: 无法找到该学习成果
@@ -10584,7 +10584,7 @@ zh:
         view_facebook_app: "查看 Facebook 应用程序"
         view_your_profile: 查看您的个人资料
       loading_token_details: 正在加载令牌详细信息...
-      no_approved_integrations: "第三方应用程序可以请求权限以代表您访问果实网。当您开始授权应用程序�到它们在此处列出。"
+      no_approved_integrations: "第三方应用程序可以请求权限以代表您访问 果实网 网站。当您开始授权应用程序后，您将看到它们在此处列出。"
       no_language_preference: "系统默认值 (%{language})"
       no_registered_services: 没有注册的服务
       none: 无
@@ -10615,7 +10615,7 @@ zh:
           这些通知将作为直接消息让您自己发送给
           自己，并且将不会在公共流中出现。
       unknown_service: 未知
-      web_services: "通过将果实网绑定到您已经使用的网络工具，它可以让您的生活轻松许多。单击\"其它服务\"中的任何服务，了解此项功能。"
+      web_services: "通过将 果实网 绑定到您已经使用的网络工具，它可以让您的生活轻松许多。单击\"其它服务\"中的任何服务，了解此项功能。"
     purpose_required: 需要填写用途
     resending: 正在重新发送...
     secondary_nav: 
